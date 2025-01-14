@@ -1,0 +1,1 @@
+//nshimiyumukizaerneste99:40INAsmJNR4NLILn@cluster0.ngioz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
